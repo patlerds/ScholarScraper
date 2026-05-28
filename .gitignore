@@ -1,0 +1,34 @@
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local Python tooling
+.venv/
+venv/
+env/
+.env
+.env.*
+.python-version
+
+# Test, coverage, and type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Scraper inputs/outputs generated locally
+queries.txt
+bib.txt
+misses.txt
+
+# Browser and Selenium leftovers
+*.log
+geckodriver.log
+chromedriver.log
+msedgedriver.log
+
+# Editor and OS clutter
+.DS_Store
+Thumbs.db
