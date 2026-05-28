@@ -8,7 +8,7 @@ API, and the script does not bypass captchas or temporary traffic blocks.
 
 Last verified working: `2026-05-28 00:34:30 -07:00`
 
-If something does not work, message `@pat_pat` on Discord.
+If something does not work, message `@pat_pat.` on Discord.
 
 ## Quick Setup
 
